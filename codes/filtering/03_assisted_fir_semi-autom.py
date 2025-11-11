@@ -5,8 +5,8 @@ Created on Wed May 27 09:00:04 2020
 
 @author: paulo
 
-Versão Modificada por anamariani para aplicação de filtro automatizado nos dados de 
-altímetro da região do Atlântico Tropical, entre 6°N e 6°S
+Modified version by anamariani for the application of the filter in the altimeter
+data in the Tropical Atlantic region, between 10°N e 10°S
 """
 
 
